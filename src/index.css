@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+    background-image: url(/src/assets/BackGround_Image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
 
 p{
     font-size: 1.6rem;
